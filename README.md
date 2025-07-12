@@ -1,4 +1,4 @@
-### ✨ About Me:
+## ✨ About Me:
 
 🛠️ I'm currently working on **web-development**  
 📚 I'm interested in various **data structures and algorithms**   
@@ -12,7 +12,7 @@
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/advitaaaaa/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/advitatalekar05/)
 
-### 🛠️ Tech Stack:
+## 🛠️ Tech Stack:
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
