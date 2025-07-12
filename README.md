@@ -22,15 +22,17 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+## 📊 GitHub Stats:
+
 ### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=advita05&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=advita05&show_icons=true&hide_title=true&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=advita05&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=advita05&layout=compact&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=advita05&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 
 
 
