@@ -24,9 +24,6 @@
 
 ## 📊 GitHub Stats:
 
-### 📊 GitHub Stats:
-### 📊 GitHub Stats:
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=advita05&show_icons=true&hide_title=true&theme=tokyonight" />
   <br>
