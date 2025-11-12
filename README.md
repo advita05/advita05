@@ -30,11 +30,11 @@
 ## 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=advita05&show_icons=true&hide_title=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=advita05&show_icons=true&hide_title=true&theme=tokyonight&v=1" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=advita05&layout=compact&theme=tokyonight" />
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=advita05&layout=compact&theme=tokyonight&v=1" />
 </p>
+
 
 
 
