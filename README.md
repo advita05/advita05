@@ -27,13 +27,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Advita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=advita05&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=advita05&layout=compact&theme=tokyonight)
-
-
 
 
 
