@@ -44,8 +44,8 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=advita05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=advita05&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=advita05&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com?user=advita05&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=advita05&theme=tokyonight&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=advita05&layout=compact&theme=tokyonight&hide_border=true)
