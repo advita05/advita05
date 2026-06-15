@@ -42,6 +42,10 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+## 📊 GitHub Stats
 
+![](https://github-readme-stats.vercel.app/api?username=advita05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=advita05&theme=tokyonight&hide_border=true)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=advita05&theme=tokyonight&hide_border=true&layout=compact)
