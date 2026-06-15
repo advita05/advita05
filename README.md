@@ -42,7 +42,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=advita05&show_icons=true&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=advita05&layout=compact&theme=tokyonight&hide_border=true)
