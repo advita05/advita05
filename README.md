@@ -5,13 +5,16 @@ I’m an **Electronics & Communication Engineering student at Shah & Anchor Kutc
 I like building things, breaking them, figuring out why they broke, and then pretending I knew what I was doing all along :)
 
 I’m particularly interested in **software development, full-stack web development, competitive programming, and AI/ML**. 
-## ✨ About Me:
 
-🛠️ I'm currently working on **web-development**  
-📚 I'm interested in various **data structures and algorithms**   
-🤖 I'm currently learning **AI/ML** and **ReactJS**  
-🤝 Open to collaborating on **hackathons** and **team coding contests**  
-🚀 Aiming to be an **SDE** and a good **problem solver**
+## 💻 What I’m Building
+
+Lately, I’ve been spending most of my time:
+
+- 🌐 Building **full-stack web applications**
+- 🧩 Solving **DSA & competitive programming** problems
+- ⚙️ Diving deeper into **backend development**
+- 🏗️ Learning **system design & scalable architecture**
+- 🤖 Exploring **AI/ML concepts and building intelligent applications**
 
 ## 🌐 Profile Links:
 
