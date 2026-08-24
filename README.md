@@ -1,3 +1,10 @@
+# Hellooooo, I’m Advita :)
+
+I’m an **Electronics & Communication Engineering student at Shah & Anchor Kutchhi Engineering College** who somehow ended up enjoying writing code way too much.
+
+I like building things, breaking them, figuring out why they broke, and then pretending I knew what I was doing all along :)
+
+I’m particularly interested in **software development, full-stack web development, competitive programming, and AI/ML**. 
 ## ✨ About Me:
 
 🛠️ I'm currently working on **web-development**  
